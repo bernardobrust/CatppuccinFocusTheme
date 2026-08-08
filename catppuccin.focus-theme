@@ -1,0 +1,93 @@
+[16]  # Version number. Do not delete.
+
+[colors]
+background0:                            1E1E2EFF
+background1:                            181825FF
+background2:                            1E1E2EFF
+background3:                            181825FF
+background4:                            313244FF
+selection_active:                       45475AFF
+selection_inactive:                     313244FF
+selection_highlight:                    45475AFF
+search_result_active:                   F9E2AFFF
+search_result_inactive:                 313244FF
+scrollbar:                              585B7055
+scrollbar_hover:                        9399B2CC
+scrollbar_background:                   11111B99
+cursor:                                 F5E0E6FF
+cursor_inactive:                        94E2D5FF
+paste_animation:                        45475AFF
+splitter:                               313244FF
+splitter_hover:                         45475AFF
+letter_highlight:                       F5E0E6FF
+list_cursor_lite:                       585B7033
+list_cursor:                            585B70AA
+shadow_dark:                            11111B33
+shadow_transparent:                     11111B00
+text_input_label:                       A6ADC8FF
+char_under_cursor:                      1E1E2EFF
+
+ui_default:                             CDD6F4FF
+ui_dim:                                 6C7086FF
+ui_neutral:                             BAC2DEFF
+ui_warning:                             FAB387FF
+ui_warning_dim:                         F9E2AFFF
+ui_error:                               F38BA8FF
+ui_error_bright:                        F38BA8FF
+ui_success:                             A6E3A1FF
+
+region_scope_export:                    CDD6F4FF
+region_scope_file:                      313244FF
+region_scope_module:                    45475AFF
+region_header:                          CDD6F4FF
+region_success:                         A6E3A1FF
+region_warning:                         F9E2AFFF
+region_error:                           F38BA8FF
+region_heredoc:                         313244FF
+
+build_panel_background:                 1E1E2EFF
+build_panel_scrollbar:                  74C7EC33
+build_panel_scrollbar_hover:            74C7ECAA
+build_panel_scrollbar_background:       11111B99
+build_panel_title_bar:                  313244FF
+
+code_default:                           CDD6F4FF
+code_comment:                           6C7086FF
+code_type:                              89DCEBFF
+code_function:                          89B4FAFF
+code_punctuation:                       BAC2DEFF
+code_operation:                         89DCEBFF
+code_string_literal:                    A6E3A1FF
+code_value:                             74C7ECFF
+code_highlight:                         89B4FAFF
+code_error:                             F38BA8FF
+code_warning:                           F9E2AFFF
+code_keyword:                           CBA6F7FF
+code_invalid:                           F38BA8FF
+code_multiline_string:                  A6E3A1FF
+code_raw_string:                        A6E3A1FF
+code_char_literal:                      A6E3A1FF
+code_identifier:                        CDD6F4FF
+code_note:                              89DCEBFF
+code_number:                            FAB387FF
+code_multiline_comment:                 6C7086FF
+code_modifier:                          CBA6F7FF
+code_attribute:                         F5C2E7FF
+code_enum_variant:                      F9E2AFFF
+code_macro:                             89B4FAFF
+code_builtin_variable:                  F38BA8FF
+code_builtin_function:                  89B4FAFF
+code_builtin_exception:                 F38BA8FF
+code_directive:                         F9E2AFFF
+code_directive_modifier:                FAB387FF
+code_header:                            CBA6F7FF
+code_header2:                           89B4FAFF
+code_header3:                           74C7ECFF
+code_header4:                           94E2D5FF
+code_header5:                           F5C2E7FF
+code_header6:                           F9E2AFFF
+
+ruler:                                  585B70FF
+
+bracket_highlight:                      585B70FF
+indent_guide:                           313244FF
